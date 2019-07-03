@@ -119,7 +119,7 @@ One or more release candidate(s) (RC) builds will be made available prior to eac
 
 [slackjoin]: https://slack.weave.works/
 [slackchan]: https://weave-community.slack.com/messages/eksctl/
-[maillist]: https://groups.google.com/forum/#!forum/eksctl-dev
+[maillist]: https://groups.google.com/forum/#!forum/eksctl
 
 > **_Logo Credits_**
 >
